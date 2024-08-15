@@ -1,1 +1,1 @@
-const text=document.querySelector
+const teste=document.querySelector
