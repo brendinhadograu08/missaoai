@@ -9,5 +9,5 @@ body{
 }
 
 .teste{
-    background-color:(225,143,43);
+    background-color:var(--cor_de_fundo2);
 }
