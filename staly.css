@@ -5,7 +5,7 @@
 
 
 body{
-    background-color:var (--cor_de_fundo);
+    background-color:var(--cor_de_fundo);
 }
 
 .teste{
