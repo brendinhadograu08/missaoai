@@ -9,4 +9,4 @@ let exemplo2 = 23;
 let exemplo3 = false;
 let exemplo4 = true;
 
-let exemplolista = [" frase1,"]
+let exemplolista = [" frase1,frase2,frase3"]
